@@ -8,6 +8,8 @@ Zijn de spelregels nog onbekend? Kijk [hier](https://www.ultraboardgames.com/sud
 
 1. Controleer of alle rijen kloppen, horizontaal en verticaal. De input vind je in [sudoku.json](https://community-challenge.netlify.app/data/sudoku.json).
 2. Controleer nu ook of de "hokjes" van 3x3 kloppen.
-3. De familie de Jong maakt op zaterdag ook altijd de X-Sudoku. Dit zorgt voor extra constraints bij de sudoku. Dit betekent dat er ook in de twee diagonalen geen dubbele getallen voor mogen komen. De uitwerking van de puzzel van Saskia van afgelopen zaterdag vind je hier.
-4. Bonus: Controleren is een ding, maar wat nou als hij hem voor je kan invullen. Zorg ervoor dat je [deze sudoku](https://community-challenge.netlify.app/data/sudoku2Solve.json) nu automatisch in laat vullen en dat de correcte uitslag wordt getoond.
+3. De familie de Jong maakt op zaterdag ook altijd de X-Sudoku. Dit zorgt voor extra constraints bij de sudoku. Dit betekent dat er ook in de twee diagonalen geen dubbele getallen voor mogen komen. De uitwerking van de puzzel van Saskia van afgelopen zaterdag vind je [hier](https://community-challenge.netlify.app/data/sudoku.json).
+4. **Bonus**: Controleren is een ding, maar wat nou als hij hem voor je kan invullen. Zorg ervoor dat je [deze sudoku](https://community-challenge.netlify.app/data/sudoku2Solve.json) nu automatisch in laat vullen en dat de correcte uitslag wordt getoond.
+
+In `sudoku.ipynb` is deze opdracht uitgewerkt. 
 
