@@ -4,7 +4,7 @@ Bit-Academy [community challenge](https://community-challenge.netlify.app/) &cop
 
 Van kleins af aan is Jantje steeds net iets trager dan zijn zus in het oplossen van een sudoku. Het verschil wordt steeds kleiner, maar Saskia blijft ze steeds net wat eerder oplossen. Hij vermoedt eigenlijk dat zijn zus valsspeelt en maar gewoon wat invult. Een programma die input snel kan controleren is daarvoor de oplossing. Aan jou om dit te gaan maken!
 
-Zijn de spelregels nog onbekend? Kijk hier voor een overzicht.
+Zijn de spelregels nog onbekend? Kijk [hier](https://www.ultraboardgames.com/sudoku/nl/spel-regels.php) voor een overzicht.
 
 1. Controleer of alle rijen kloppen, horizontaal en verticaal. De input vind je in [sudoku.json](https://community-challenge.netlify.app/data/sudoku.json).
 2. Controleer nu ook of de "hokjes" van 3x3 kloppen.
